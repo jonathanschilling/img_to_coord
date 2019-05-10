@@ -4,8 +4,10 @@ Jonathan Schilling (jonathan.schilling@ipp.mpg.de)
 # USEAGE
 
 adjust geometry (see description below) in mainwindow.cpp
-> cd /some/path/which/contains/many/png/images/
-> /path/to/img_to_coord *.png
+```
+cd /some/path/which/contains/many/png/images/
+/path/to/img_to_coord *.png
+```
 
 The program starts with a GUI and shows the first image given on the command line.
 A green rectangle illustrates the region defined by ((x_start, y_start) ... (x_end, y_end)) in mainwindow.cpp .
@@ -22,7 +24,9 @@ At the end of the list of images given on the command line, the image loader wra
 
 # BUILDING
 
+```
 > qmake img_to_coord.pro
 > make
+```
 
 --> gives you an executable img_to_coord
