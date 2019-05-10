@@ -1,5 +1,5 @@
-This is a program to convert pixel positions into real space coordinates.
-Jonathan Schilling (jonathan.schilling@ipp.mpg.de)
+# convert pixel positions into real space coordinates
+by Jonathan Schilling (jonathan.schilling@ipp.mpg.de)
 
 # USEAGE
 
