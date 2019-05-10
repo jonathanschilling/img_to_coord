@@ -5,8 +5,8 @@ Jonathan Schilling (jonathan.schilling@ipp.mpg.de)
 
 adjust geometry (see description below) in mainwindow.cpp
 ```
-cd /some/path/which/contains/many/png/images/
-/path/to/img_to_coord *.png
+> cd /some/path/which/contains/many/png/images/
+> /path/to/img_to_coord *.png
 ```
 
 The program starts with a GUI and shows the first image given on the command line.
